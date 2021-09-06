@@ -9,7 +9,7 @@ I have created an Inventory Management System to manage the goods for a small sc
 This will save a lot of time and efforts of the shopkeepers and facillitate them in the tedious task of managing inventory and sales.
 
 ## Functionalities and working:
-This project is actually divided into 2 files:
+This project is actually divided into 2 parts:
 
 **1.Adding_Elements_into_Inventory:**
 In this part, We create a records.json file which contains all the Inventories with details like product id(barcode),name,quantity,price,isAvailable,Expiry date.
